@@ -1,0 +1,22 @@
+INSERT INTO products (name, ean, price, description, place_of_sale, status, image)
+VALUES
+('Produto 1', '1234567890123', 19.99, 'Descrição do Produto 1', 'Loja', true, ''),
+('Produto 2', '2234567890123', 29.99, 'Descrição do Produto 2', 'Evento', true, ''),
+('Produto 3', '3234567890123', 39.99, 'Descrição do Produto 3', 'Loja', true, ''),
+('Produto 4', '4234567890123', 49.99, 'Descrição do Produto 4', 'Evento', false, ''),
+('Produto 5', '5234567890123', 59.99, 'Descrição do Produto 5', 'Loja', true, ''),
+('Produto 6', '6234567890123', 69.99, 'Descrição do Produto 6', 'Evento', true, ''),
+('Produto 7', '7234567890123', 79.99, 'Descrição do Produto 7', 'Loja', false, ''),
+('Produto 8', '8234567890123', 89.99, 'Descrição do Produto 8', 'Evento', true, ''),
+('Produto 9', '9234567890123', 99.99, 'Descrição do Produto 9', 'Loja', true, ''),
+('Produto 10', '1234567890222', 109.99, 'Descrição do Produto 10', 'Evento', true, ''),
+('Produto 11', '2234567890333', 119.99, 'Descrição do Produto 11', 'Loja', false, ''),
+('Produto 12', '3234567890444', 129.99, 'Descrição do Produto 12', 'Evento', true, ''),
+('Produto 13', '4234567890555', 139.99, 'Descrição do Produto 13', 'Loja', true, ''),
+('Produto 14', '5234567890666', 149.99, 'Descrição do Produto 14', 'Evento', true, ''),
+('Produto 15', '6234567890777', 159.99, 'Descrição do Produto 15', 'Loja', false, ''),
+('Produto 16', '7234567890888', 169.99, 'Descrição do Produto 16', 'Evento', true, ''),
+('Produto 17', '8234567890999', 179.99, 'Descrição do Produto 17', 'Loja', true, ''),
+('Produto 18', '9234567890110', 189.99, 'Descrição do Produto 18', 'Evento', false, ''),
+('Produto 19', '1234567890121', 199.99, 'Descrição do Produto 19', 'Loja', true, ''),
+('Produto 20', '2234567890122', 209.99, 'Descrição do Produto 20', 'Evento', true, '');

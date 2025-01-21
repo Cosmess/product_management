@@ -128,3 +128,49 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.pot
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# FastAPI
+instance/
+*.bak
+*.swp
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Docker
+docker-compose.override.yml
+docker-compose.yml
+*.dockerfile
+
+# SQLite
+*.db
+*.sqlite
+
+# Test Coverage
+coverage/
